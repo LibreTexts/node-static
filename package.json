@@ -21,9 +21,6 @@
   "scripts": {
     "test": "vows --spec --isolate"
   },
-  "bin": {
-    "static": "bin/cli.js"
-  },
   "license": "MIT",
   "dependencies": {
     "colors": ">=0.6.0",
