@@ -30,7 +30,7 @@
     "request": "latest",
     "vows": "latest"
   },
-  "version": "0.7.11",
+  "version": "0.8.00",
   "engines": {
     "node": ">= 0.4.1"
   },
